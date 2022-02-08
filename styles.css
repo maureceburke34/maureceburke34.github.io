@@ -2,3 +2,6 @@ body{
   text-align: center;
   background-image: url("https://www.webmasterdiary.net/wp-content/uploads/homepage.jpg");
 }
+p {
+  font-size: 20px;
+}
